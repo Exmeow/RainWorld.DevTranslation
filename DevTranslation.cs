@@ -7,8 +7,8 @@ using UnityEngine;
 
 namespace DevTranslate;
 
-[BepInPlugin("devtranslate", "Dev Translate", "v2024.2.11.1")]
-public class DevTranslate : BaseUnityPlugin
+[BepInPlugin("DevTranslation", "Devtools Translation", "2024.2.12")]
+public class DevTranslation : BaseUnityPlugin
 {
 	private const string exc = "加载时发生了错误！请尝试上报给作者";
 
